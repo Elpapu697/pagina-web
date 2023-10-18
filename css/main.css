@@ -1,0 +1,276 @@
+.pantalla {
+    width: 390px;
+    height: 844px;
+    background-color: rgba(50, 153, 103, 1);
+    display: flex;
+    
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.inicio {
+    width: 390px;
+    height: 844px;
+}
+.sesion {
+    width: 390px;
+    height: 422px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+
+}
+.sesion2 {
+
+    width: 390px;
+    height: 422px;
+    background-color: rgba(18, 178, 150, 1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+
+}
+
+.logo{
+    width: 221px;
+    height: 228px;
+    background-color: rgb(44, 105, 20);
+    background-image: url(../img/Captura\ de\ pantalla\ 2023-10-17\ 202336.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Name {
+    width: 228px;
+    height: 84px;
+    background-color:transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}
+.cuadro {
+    
+    width: 267px;
+    height: 49px;
+    background-color: rgb(251, 251, 251);
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.espacio {
+    width: 267px;
+    height: 49px;
+    background-color: transparent;
+}
+.slogan{
+    width: 267px;
+    height: 80px;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+}
+.txt{
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    width: 267px;
+    height: 29px;
+    background-color: transparent;
+    font-size: 23px;
+}
+.txt h5{
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+.imga{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(44, 105, 20);
+    background-image: url(../img/img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.regresar{
+    width: 390px;
+    height: 49px;
+    background-color: transparent;
+
+}
+.volver{
+    width: 130px;
+    height: 49px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.volver h2{
+    color:white;
+}
+.name {
+    width: 238px;
+    height: 84px;
+    background-color:transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.crear {
+    width: 200px;
+    height: 49px;
+    background-color: rgba(46, 37, 37, 0.72);
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.crear p{
+    color:white;
+}
+
+.pantalla2 {
+    width: 390px;
+    height: 844px;
+    background-color: rgba(83, 27, 92, 1);
+    display: flex;
+    
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.barra
+{
+    width: 390px;
+    height: 86px;
+    
+    display: flex;
+}
+
+.sep{
+    width: 390px;
+    height: 20px;
+    background-color: rgb(0, 0, 0);
+}
+.base{
+    width: 390px;
+    height: 240px;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.img2{
+    width: 86px;
+    height: 86px;
+    background-color: transparent;
+    background-image: url(../img/Captura\ de\ pantalla\ 2023-10-17\ 202336.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+}
+.br{
+    width: 220px;
+    height: 50px;
+    background-color: rgb(247, 247, 247);
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    
+}
+.menu{
+    width: 86px;
+    height: 86px;
+    background-color: rgb(108, 13, 114);
+    background-image: url(../img/menu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.br p{
+    
+    color:rgb(110, 101, 101);
+}
+
+.img3{
+    width: 270px;
+    height: 169px;
+    background-color: azure;
+    background-image: url(../img/bici1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.in{
+    width: 270px;
+    height: 50px;
+    
+    display: flex;
+}
+.corazon
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(161, 34, 64);
+    background-image: url(../img/corazon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.comentario
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(34, 161, 36);
+    background-image: url(../img/comentario.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.carrito
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(161, 34, 64);
+    background-image: url(../img/carrito.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sp
+{
+    width: 120px;
+    height: 50px;
+    background-color: transparent;
+}
+.img4{
+    width: 270px;
+    height: 169px;
+    background-color: rgb(255, 240, 246);
+    background-image: url(../img/bici2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img5{
+    width: 270px;
+    height: 169px;
+    background-color: rgb(254, 255, 240);
+    background-image: url(../img/bici3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cuadro input{
+    width: 267px;
+    height: 49px;
+}
+
+
+
